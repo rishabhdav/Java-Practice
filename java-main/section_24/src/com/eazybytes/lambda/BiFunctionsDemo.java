@@ -37,6 +37,66 @@ public class BiFunctionsDemo {
             builder.append(str2);
             System.out.println(builder.toString().toUpperCase());
         };
+
+
+        BiConsumer<String, String> employeeDetails = (firstName, lastName) -> {
+
+            firstName = firstName.trim();
+            lastName = lastName.trim();
+
+            StringBuilder fullName = new StringBuilder();
+            fullName.append(firstName);
+            fullName.append(" ");
+            fullName.append(lastName);
+
+            String name = fullName.toString();
+
+            System.out.println("Employee Details");
+            System.out.println("-----------------------------");
+            System.out.println("Full Name : " + name);
+            System.out.println("Uppercase : " + name.toUpperCase());
+            System.out.println("Lowercase : " + name.toLowerCase());
+
+            int totalLength = name.replace(" ", "").length();
+            System.out.println("Total Characters : " + totalLength);
+
+            int vowels = 0;
+            int consonants = 0;
+
+            for (char ch : name.toLowerCase().toCharArray()) {
+
+                if (Character.isLetter(ch)) {
+
+                    if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
+                        vowels++;
+                    } else {
+                        consonants++;
+                    }
+                }
+            }
+
+            System.out.println("Vowels : " + vowels);
+            System.out.println("Consonants : " + consonants);
+
+            String reversed = new StringBuilder(name).reverse().toString();
+            System.out.println("Reversed Name : " + reversed);
+
+            if (firstName.length() > lastName.length()) {
+                System.out.println("First name is longer.");
+            } else if (firstName.length() < lastName.length()) {
+                System.out.println("Last name is longer.");
+            } else {
+                System.out.println("Both names have equal length.");
+            }
+
+            System.out.println("\nCharacters in Full Name:");
+
+            for (int i = 0; i < name.length(); i++) {
+                System.out.println(i + " -> " + name.charAt(i));
+            }
+
+            System.out.println("\nProcessing Completed Successfully.");
+        };
         printString.accept("Rishabh","Rishabh");
 
 
