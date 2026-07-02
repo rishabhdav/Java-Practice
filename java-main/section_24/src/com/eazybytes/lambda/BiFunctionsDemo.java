@@ -8,8 +8,8 @@ import java.util.function.BinaryOperator;
 public class BiFunctionsDemo {
 
     public static void main(String[] args) {
-        BiPredicate<Integer, Integer> isSumEven = (num1, num2) -> (num1+num2) % 2 == 0;
-        System.out.println(isSumEven.test(4,9)); // false
+
+
 
         BiPredicate<Integer,Integer> isPrimeBoth = (num1, num2) -> {
             boolean isprime=false;
