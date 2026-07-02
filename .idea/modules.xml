@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-main.iml" filepath="$PROJECT_DIR$/.idea/java-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section3/section3.iml" filepath="$PROJECT_DIR$/java-main/section3/section3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section4/section4.iml" filepath="$PROJECT_DIR$/java-main/section4/section4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section5/section5.iml" filepath="$PROJECT_DIR$/java-main/section5/section5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section6/section6.iml" filepath="$PROJECT_DIR$/java-main/section6/section6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section7/section7.iml" filepath="$PROJECT_DIR$/java-main/section7/section7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section8/section8.iml" filepath="$PROJECT_DIR$/java-main/section8/section8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section9/section9.iml" filepath="$PROJECT_DIR$/java-main/section9/section9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_10/section_10.iml" filepath="$PROJECT_DIR$/java-main/section_10/section_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_11/section_11.iml" filepath="$PROJECT_DIR$/java-main/section_11/section_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_12/section_12.iml" filepath="$PROJECT_DIR$/java-main/section_12/section_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_13/section_13.iml" filepath="$PROJECT_DIR$/java-main/section_13/section_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_14/section_14.iml" filepath="$PROJECT_DIR$/java-main/section_14/section_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_15/section_15.iml" filepath="$PROJECT_DIR$/java-main/section_15/section_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_16/section_16.iml" filepath="$PROJECT_DIR$/java-main/section_16/section_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_17/section_17.iml" filepath="$PROJECT_DIR$/java-main/section_17/section_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_18/section_18.iml" filepath="$PROJECT_DIR$/java-main/section_18/section_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_19/section_19.iml" filepath="$PROJECT_DIR$/java-main/section_19/section_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_20/section_20.iml" filepath="$PROJECT_DIR$/java-main/section_20/section_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_21/section_21.iml" filepath="$PROJECT_DIR$/java-main/section_21/section_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_22/section_22.iml" filepath="$PROJECT_DIR$/java-main/section_22/section_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_23/section_23.iml" filepath="$PROJECT_DIR$/java-main/section_23/section_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_24/section_24.iml" filepath="$PROJECT_DIR$/java-main/section_24/section_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_25/section_25.iml" filepath="$PROJECT_DIR$/java-main/section_25/section_25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_26/section_26.iml" filepath="$PROJECT_DIR$/java-main/section_26/section_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_27/section_27.iml" filepath="$PROJECT_DIR$/java-main/section_27/section_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_28/section_28.iml" filepath="$PROJECT_DIR$/java-main/section_28/section_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-main/section_29/section_29.iml" filepath="$PROJECT_DIR$/java-main/section_29/section_29.iml" />
+    </modules>
+  </component>
+</project>
